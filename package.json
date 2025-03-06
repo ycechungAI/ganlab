@@ -53,7 +53,7 @@
     "@bower_components/web-animations-js": "web-animations/web-animations-js#^2.2.0",
     "@bower_components/webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.24",
     "@tensorflow/tfjs-core": "^0.12.0",
-    "chart.js": "~2.7.1",
+    "chart.js": "~2.9.4",
     "tslint": "~5.8.0"
   },
   "repository": {
@@ -76,8 +76,8 @@
     "d3-shape": "~1.2.0",
     "d3-transition": "~1.1.1",
     "fetch-mock": "~5.13.1",
-    "handlebars": "~4.0.11",
-    "highlight.js": "9.12.0",
+    "handlebars": "~4.7.7",
+    "highlight.js": "10.4.1",
     "http-server": "~0.10.0",
     "jasmine-core": "~2.6.4",
     "minimist": "~1.2.0",
@@ -86,7 +86,7 @@
     "poi": "~9.6.8",
     "poi-preset-typescript": "~9.0.2",
     "polymer-bundler": "~3.0.1",
-    "shelljs": "~0.7.8",
+    "shelljs": "~0.8.5",
     "tsify": "~3.0.3",
     "typescript": "2.7.2",
     "uglifyjs": "~2.4.11",
